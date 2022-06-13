@@ -1,2 +1,3 @@
 Original dataset is from https://github.com/washingtonpost/data-school-shootings/blob/master/school-shootings-data.csv
 gun friendly index is from https://www.az-defenders.com/best-states-for-gun-owners/ 
+gun ownership data is form https://robarguns.com/gun-sales-in-alabama

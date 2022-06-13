@@ -4,6 +4,7 @@ Since I usually use Plotly in my personal projects, the charts do not automatica
 I will post the them here so whoever is reading this can follow along. 
 
 ![](chart1.png)
+![](chart2.png)
 ![](chart3.png)
 ![](chart4.png)
 ![](chart5.png)

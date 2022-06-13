@@ -9,4 +9,4 @@ I will post the them here so whoever is reading this can follow along.
 ![](chart4.png)
 ![](chart5.png)
 ![](chart6.png)
-![](chart7.png)
+![](newchart7.png)
